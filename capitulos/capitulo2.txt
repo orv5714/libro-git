@@ -1,6 +1,4 @@
-El flujo de trabajo básico con Git consiste en: 1 - Hacer cambios en el repositorio
-[A[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+El flujo de trabajo básico con Git consiste en: 
 1 - Hacer cambios en el repositorio
 2 - Añadir lso cambios a la zona de intercambio temporal
 3 - Hacer un commit de los cambios.
